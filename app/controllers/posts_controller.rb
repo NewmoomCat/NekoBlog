@@ -9,6 +9,7 @@ A
   end
 
   def show
+
     render 'posts/show'
   end
 end

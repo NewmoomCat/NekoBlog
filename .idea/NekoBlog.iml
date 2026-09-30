@@ -1582,6 +1582,85 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="kramdown (v2.5.2) [path][gem]" type="rubylib">
+        <properties>
+          <option name="additionalInfo">
+            <AdditionalInfo>
+              <option name="authors" value="不适用" />
+              <option name="email" value="不适用" />
+              <option name="homepage" value="不适用" />
+              <option name="summary" value="不适用" />
+            </AdditionalInfo>
+          </option>
+          <option name="fromPath" value="true" />
+          <option name="name" value="kramdown" />
+          <option name="requirePaths">
+            <list>
+              <option value="lib" />
+            </list>
+          </option>
+          <option name="url" value="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2" />
+          <option name="version" value="2.5.2" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2/man" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2/data" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2/man" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2/data" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2/man" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2/data" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-2.5.2/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="kramdown-parser-gfm (v1.1.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="additionalInfo">
+            <AdditionalInfo>
+              <option name="authors" value="不适用" />
+              <option name="email" value="不适用" />
+              <option name="homepage" value="不适用" />
+              <option name="summary" value="不适用" />
+            </AdditionalInfo>
+          </option>
+          <option name="fromPath" value="true" />
+          <option name="name" value="kramdown-parser-gfm" />
+          <option name="requirePaths">
+            <list>
+              <option value="lib" />
+            </list>
+          </option>
+          <option name="url" value="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-parser-gfm-1.1.0" />
+          <option name="version" value="1.1.0" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-parser-gfm-1.1.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-parser-gfm-1.1.0/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-parser-gfm-1.1.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-parser-gfm-1.1.0/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.4.0/gems/kramdown-parser-gfm-1.1.0/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="language_server-protocol (v3.17.0.6) [path][gem]" type="rubylib">
         <properties>
           <option name="additionalInfo">
