@@ -1,0 +1,22 @@
+<header>
+  <h1>BLOGS</h1>
+</header>
+<main>
+  <div>
+    <%= image_tag "/images/tx.jpg", style: "width: 240px; height: 240px; border-radius: 50%;" %>
+    <p><strong>新月猫Neko 的博客空间</strong></p>
+    <%= simple_format @about %>
+    <div>
+      <i class="fa-brands fa-bilibili"></i><%= link_to " 我的B站", "https://space.bilibili.com/562830332", target: '_blank' %>
+      <br>
+      <i class="fa-brands fa-x-twitter"></i><%= link_to " 我的X (Twitter)", "https://x.com/XinYue_Neko", target: '_blank' %>
+    </div>
+  </div>
+  <div>
+    <h2>以下是一些杂七杂八的文章</h2>
+    <p>文章列表</p>
+    <ul>
+      <li><p><strong>NULL</strong></p></li>
+    </ul>
+  </div>
+</main>
